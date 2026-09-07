@@ -4,6 +4,8 @@ A compact Wi-Fi camera built with the **Seeed Studio XIAO ESP32-S3 Sense / XIAOM
 
 The project streams live MJPEG video over Wi-Fi, serves a simple browser-based camera page, supports single-frame JPEG capture, and uses the XIAOML Kit's **0.42" OLED** to show startup status, Wi-Fi connection state, and the assigned IP address.
 
+![XIAO ESP32-S3 Camera Demo](xiao-camera-demo.gif)
+
 ## Features
 
 - Live **MJPEG video streaming** over Wi-Fi
