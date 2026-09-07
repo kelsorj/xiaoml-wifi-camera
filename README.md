@@ -482,12 +482,6 @@ The sample HTTP video server does **not** provide authentication or TLS encrypti
 
 For remote access, use a secured gateway, VPN, reverse proxy, or other authenticated infrastructure rather than forwarding the ESP32's HTTP ports directly to the Internet.
 
-## License
-
-Choose the license that fits your project. MIT is a common option for open-source Arduino projects.
-
-For example, add a `LICENSE` file containing the MIT License if you want others to freely use, modify, and redistribute the code with attribution.
-
 ## Acknowledgements
 
 Built using:
